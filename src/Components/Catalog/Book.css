@@ -1,0 +1,121 @@
+.main{
+  display: flex; 
+}
+
+/* img {
+  width: 100px; */
+  /* height: 100px; */
+  border: 5px solid #4807df;
+}
+  marquee{
+    font-size: 50px;
+     color: orangered;
+  }
+
+
+h1{
+  color:blue;
+}
+
+li{
+  font-size: 20px;
+  color:blue;
+  font-family: "Verdana"; 
+}
+
+h2 {
+  color: purple;
+  font-family: "Verdana";
+
+}
+
+.book-card {
+  border: 7px solid purple;
+  padding: 25px;
+  margin: 10px;
+    
+}
+
+ h2{
+   color:blue;
+ }
+
+ h3{
+   color: red;
+ }
+
+p {
+  color:brown;
+  font-style: italic;
+}
+ 
+.main{
+  display: flex; 
+}
+
+
+.first{
+  background: violet;
+  /* width: 200px; */
+  height: 100px;
+}
+
+.second{
+  background-color: yellow;
+  height: 100px;
+  /* width: 200px; */
+}
+
+.third{
+  background-color: violet;
+  height: 100x;
+  /* width: 200px; */
+}
+
+.fourth{
+  background-color: yellow;
+  height: 100px;
+  /* width: 200px; */
+}
+
+
+
+img.first{
+  height: auto;
+  width: auto;
+}
+
+  img {
+    height:100%;
+    width: 50%;
+    
+  }
+
+
+  .active {
+    display: flex;
+    /* flex-direction: row; */
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #b75824;
+  }
+
+  li {
+    float: left;
+  }
+
+  li a {
+    display: block;
+    color: #88dd8e;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+  li a:hover {
+    background-color: floralwhite;
+
+
+
