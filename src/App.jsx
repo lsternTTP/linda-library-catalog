@@ -59,7 +59,7 @@ export default function App() {
       <Search></Search>
 
       <img className="cartoon"
-  src="src/image/spiderman.giphy.gif"></img>
+  src="https://github.com/lsternTTP/linda-library-catalog/blob/main/src/image/spiderman.giphy.gif?raw=true"></img>
 
       <nav>
         <ul className="underline">
