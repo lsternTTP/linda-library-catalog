@@ -38,10 +38,10 @@ export default function App() {
   return (
     <main>
       <div className="main">
-        <img src="src/image/lion.png" alt="lion"></img>
-        <img src="src/image/inside.png" alt="inside of library"></img>
-        <img src="src/image/accessibility.jpg" alt="two people"></img>
-        <img src="src/image/diversity.png" alt="lady sitting"></img>
+        <img src="https://github.com/lsternTTP/linda-library-catalog/blob/main/src/image/lion.png?raw=true" alt="lion"></img>
+        <img src="https://github.com/lsternTTP/linda-library-catalog/blob/main/src/image/inside.png?raw=true" alt="inside of library"></img>
+        <img src="https://github.com/lsternTTP/linda-library-catalog/blob/main/src/image/accessibility.jpg?raw=true" alt="two people"></img>
+        <img src="https://github.com/lsternTTP/linda-library-catalog/blob/main/src/image/diversity.png?raw=true" alt="lady sitting"></img>
       </div>
 
       <marquee>

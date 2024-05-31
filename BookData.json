@@ -7,7 +7,7 @@
             "description": "In this honest and stunning novel, James Baldwin has given America a moving story of love in the face of injustice. In a love story that evokes the blues, where passion and sadness are inevitably intertwined",
             "published": 1974,
             "language": "English/Spanish",
-            "img": "src/image/one.jpg"
+            "img": "https://github.com/lsternTTP/linda-library-catalog/blob/main/src/image/one.jpg?raw=true"
         },
         {
             "id": 2,
@@ -16,7 +16,7 @@
             "description": "At once a powerful evocation of James Baldwin’s early life in Harlem and a disturbing examination of the consequences of racial injustice,",
             "published": 1963,
             "language": "English",
-            "img": "src/image/two.jpg"
+            "img": "https://github.com/lsternTTP/linda-library-catalog/blob/main/src/image/two.jpg?raw=true"
         },
         {
             "id": 3,
@@ -25,7 +25,7 @@
             "description": "an Andalusian shepherd boy who yearns to travel in search of a worldly treasure. His quest will lead him to riches far different—and far more satisfying—than he ever imagined.",
             "published": 1988,
             "language": "English",
-            "img": "src/image/three.jpg"
+            "img": "https://github.com/lsternTTP/linda-library-catalog/blob/main/src/image/three.jpg?raw=true"
         },
         {
             "id": 4,
@@ -34,7 +34,7 @@
             "description": "He describes growing up in a Black community in the South, attending a Negro college from which he is expelled, moving to New York and becoming the chief spokesman of the Harlem branch of 'the Brotherhood,' before retreating amid violence and confusion.",
             "published": 1952,
             "language": "English",
-            "img": "src/image/four.jpg"
+            "img": "https://github.com/lsternTTP/linda-library-catalog/blob/main/src/image/four.jpg?raw=true"
         },
         {
             "id": 5,
@@ -43,7 +43,7 @@
             "description": "Mackenzie daughter, Missy, has been abducted and evidence that she may have been brutally murdered is found in an abandoned shack deep in the Oregon wilderness. Four years later Mack receives a suspicious note, apparently from God, inviting him back to that shack for a weekend.",
             "published": 2007,
             "language": "English",
-            "img": "src/image/five.jpg"
+            "img": "https://github.com/lsternTTP/linda-library-catalog/blob/main/src/image/five.jpg?raw=true"
         },
         {
             "id": 6,
@@ -52,7 +52,7 @@
             "description": "Darrin Bell was six years old when his mother told him he couldn’t have a realistic water gun. Bell examines how The Talk shaped intimate and public moments from childhood to adulthood.",
             "published": 2023,
             "language": "English",
-            "img": "src/image/six.jpg"
+            "img": "https://github.com/lsternTTP/linda-library-catalog/blob/main/src/image/six.jpg?raw=true"
         },
         {
             "id": 7,
@@ -61,7 +61,7 @@
             "description": "It is 1939, Nazi Germany. Death has never been busier, and will become busier still. Liesel Meminger scratches out a meager existence for herself by stealing when she encounters something she can’t resist–books.",
             "published": 2005,
             "language": "English",
-            "img": "src/image/seven.jpg"
+            "img": "https://github.com/lsternTTP/linda-library-catalog/blob/main/src/image/seven.jpg?raw=true"
         },
         {
             "id": 8,
@@ -70,7 +70,7 @@
             "description": "A totalitarian government controls everything in an imagined future. When a government worker starts to think for himself, he faces dire consequences.",
             "published": 1949,
             "language": "English",
-            "img": "src/image/eight.jpg"
+            "img": "https://github.com/lsternTTP/linda-library-catalog/blob/main/src/image/eight.jpg?raw=true"
         },
         {
             "id": 9,
@@ -79,7 +79,7 @@
             "description": "This was no ordinary war. This was a war to make the world safe for democracy. And if democracy was made safe, then nothing else mattered—not the millions of dead bodies, nor the thousands of ruined lives.",
             "published": 1939,
             "language": "English",
-            "img": "src/image/nine.jpg"
+            "img": "https://github.com/lsternTTP/linda-library-catalog/blob/main/src/image/nine.jpg?raw=true"
         },
         {
             "id": 10,
@@ -88,7 +88,7 @@
             "description": "Prepare yourself for the thrill of the chill, nervous giggles and the Scream you let out  when someone or something touches your shoulder on a dark and stormy night, can you handle it?.",
             "published": 2001,
             "language": "English",
-            "img": "src/image/ten.jpg"
+            "img": "https://github.com/lsternTTP/linda-library-catalog/blob/main/src/image/ten.jpg?raw=true"
         }
     ]
 }
